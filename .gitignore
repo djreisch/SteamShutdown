@@ -1,4 +1,5 @@
 # Debug and Release folder
+/packages/
 bin/
 obj/
 
@@ -8,7 +9,6 @@ obj/
 *.userosscache
 *.sln.docstates
 .vs/
-/packages
 
 # Windows image file caches
 Thumbs.db
